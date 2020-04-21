@@ -1,0 +1,1 @@
+Sorry, you cannot join your own team.
